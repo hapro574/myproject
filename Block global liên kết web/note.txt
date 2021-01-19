@@ -1,0 +1,1 @@
+Block này em có sử dụng kèm template block.link.tpl trong thư mục layout
